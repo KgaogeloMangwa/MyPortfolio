@@ -25,7 +25,7 @@ export function Home() {
                   <BsFillMoonStarsFill/>
                 </li>
                 <li>
-                  <a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' href="https://drive.google.com/file/d/1W0bKNXEvSReO-G0tJWUlbD8tzFYxb55M/view?usp=share_link" locale = {false}target= "_blank">
+                  <a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' href="https://drive.google.com/file/d/1J6ycjbtq4LR8FOQGRu7efDLEG2P4kXqF/view?usp=share_link" locale = {false}target= "_blank">
                   
                     Resume
 
